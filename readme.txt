@@ -1,4 +1,4 @@
-initialData 是六个细胞系的原始数据
+六个细胞系的原始数据：https://zenodo.org/record/4018229
 pos_neg.py 将原始数据划分为正负样本
 sample_bind.py 进行采样，并且将采样完的正负样本合起来
 feactureBind _allBind.py 将不同的特征合起来，并且将启动子增强子的特征合起来
